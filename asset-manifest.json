@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/WeddingInvitation/static/css/main.ca45d664.css",
+    "main.js": "/WeddingInvitation/static/js/main.32136b40.js",
+    "static/media/jecj joy.png": "/WeddingInvitation/static/media/jecj joy.0c0aec48337a6973eda7.png",
+    "index.html": "/WeddingInvitation/index.html",
+    "main.ca45d664.css.map": "/WeddingInvitation/static/css/main.ca45d664.css.map",
+    "main.32136b40.js.map": "/WeddingInvitation/static/js/main.32136b40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca45d664.css",
+    "static/js/main.32136b40.js"
+  ]
+}
